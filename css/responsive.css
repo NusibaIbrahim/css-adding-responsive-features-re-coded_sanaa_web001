@@ -62,6 +62,6 @@
   top: 60px;
 }
 #logo h2 {
-  visibi
+  visibility: hidden;
 }
 }
